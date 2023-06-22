@@ -83,3 +83,6 @@ yarn-debug.log*
 *.iml
 *.iml
 .idea/pen2-crud.iml
+
+/app/assets/builds/*
+!/app/assets/builds/.keep
